@@ -130,7 +130,7 @@ nav ul li a:hover::after{
     background-repeat: no-repeat;
     -webkit-background-clip: text;
     background-position: -300px 0px;
-    animation:backcolor 1.5s linear infinite alternate;
+    animation:backcolor 2.5s linear infinite alternate;
 
 }
 
