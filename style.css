@@ -148,7 +148,7 @@ nav ul li a:hover::after{
     background-repeat: no-repeat;
     -webkit-background-clip: text;
     background-position: -724px 0px;
-    animation:backcolor 1.2s linear infinite;
+    animation:backcolor 1s linear infinite alternate;
    
 }
 /* CSS for paragraph */
